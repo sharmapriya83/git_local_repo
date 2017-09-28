@@ -4,4 +4,7 @@ Yellow
 Orange
 Black
 White
-
+Pink
+Brown
+Purple
+Green
